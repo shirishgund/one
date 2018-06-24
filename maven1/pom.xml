@@ -3,7 +3,7 @@
   <groupId>com.cognizant</groupId>
   <artifactId>maven1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <scm></scm>
   <dependencies>
   <dependency>
     <groupId>junit</groupId>
